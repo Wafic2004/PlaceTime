@@ -2,6 +2,8 @@
 
 very useful to see what time in various places
 
+I am sorry if you that you are facing bad experiences with it shows "ERROR" or any problems, I am working on it to fix. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
