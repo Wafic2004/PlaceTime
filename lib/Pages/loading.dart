@@ -26,14 +26,6 @@ class _LoadingState extends State<Loading> {
   }
 
   @override
-  void initState() {
-    super.initState();
-
-    //print("time before start created = ${DateTime.now().toString()}");
-
-  }
-
-  @override
   Widget build(BuildContext context) {
     setData = ModalRoute.of(context)!.settings.arguments as Map;
     setWorldTime();
